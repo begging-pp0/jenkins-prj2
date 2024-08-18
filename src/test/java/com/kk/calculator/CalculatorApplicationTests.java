@@ -1,10 +1,10 @@
-package com.kk.demowar;
+package com.kk.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemowarApplicationTests {
+class CalculatorApplicationTests {
 
 	@Test
 	void contextLoads() {

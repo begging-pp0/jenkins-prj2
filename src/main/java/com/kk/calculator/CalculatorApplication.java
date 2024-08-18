@@ -1,16 +1,15 @@
-package com.kk.demowar;
+package com.kk.calculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemowarApplication {
+public class CalculatorApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemowarApplication.class, args);
+		SpringApplication.run(CalculatorApplication.class, args);
 	}
 
 }
-
 
 
